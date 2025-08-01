@@ -1,0 +1,17 @@
+{
+  "get": "fixtures",
+  "parameters": {
+    "date_from": "2025-07-29",
+    "date_to": "2025-07-31"
+  },
+  "errors": {
+    "date_from": "The Date_from field do not exist.",
+    "date_to": "The Date_to field do not exist."
+  },
+  "results": 0,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": []
+}
